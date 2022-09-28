@@ -2,5 +2,5 @@
 </script>
 
 <template>
-  <p>Jaymit Component</p>
+  <p>Shailesh Component</p>
 </template>
